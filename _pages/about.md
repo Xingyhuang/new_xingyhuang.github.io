@@ -5,7 +5,7 @@ permalink: /
 description: 
 
 profile:
-  align: right
+  align: left
   image: xy_photo.png
   address: #>
     #<p>555 your office number</p>
@@ -15,6 +15,8 @@ profile:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
+
+
 
 # Welcome!
 

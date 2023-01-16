@@ -51,7 +51,7 @@ nav: true
     {% endfor %}
   </ol>
 
-## Other writing
+<!-- ## Other writing
 
 <ul>
 {% for item in site.data.writing %}
@@ -73,6 +73,6 @@ nav: true
         {{ item.date }}.
 	  </li>	
 		
-{% endfor %}
+{% endfor %} -->
 
 </ul>

@@ -1,7 +1,7 @@
 - title: Climate change is increasing the risk of a California megaflood
   color: lightgray
   figure: ../assets/img/papers/arkstorm-intro-v5-1600.gif
-  caption: "Changes in precipitation have caused around one-third ($73 billion) of US flood damages between 1988 and 2017. (Video generated for the report of my paper <a href='https://scienceadvances.altmetric.com/details/134020757'>Huang et al.</a> by <a href='https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html?smid=tw-share' target='_blank'>New York Times</a>)"
+  caption: "Climate change is increasing the risk of a California megaflood. (Video generated for the report of my paper <a href='https://scienceadvances.altmetric.com/details/134020757'>Huang et al.</a> by <a href='https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html?smid=tw-share' target='_blank'>New York Times</a>)"
   pubs:
    - name: 'Huang et al., 2022'
      link: 'https://scienceadvances.altmetric.com/details/134020757'
@@ -14,7 +14,7 @@
      link: 'https://www.cbsnews.com/news/megaflood-california-8-feet-of-water-scenarios-research/'
    - name: CNN News, 
      link: 'https://www.cnn.com/2022/08/12/weather/california-megaflood-study/index.html#:~:text=A%20megaflood.,alive%20today%20has%20ever%20experienced.'
-   - name: Many other news coverage links collected by Altmetric
+   - name: Hundreds of other news coverage links collected by Altmetric
      link: 'https://scienceadvances.altmetric.com/details/134020757/news'
   questions:
    - q: What is finding in this research?  
@@ -26,7 +26,7 @@
 - title: Climate variability and precipitation
   color: lightgray
   figure: ../assets/img/papers/main_fig_4_circulation.jpg
-  caption: "Changes in precipitation have caused around one-third ($73 billion) of US flood damages between 1988 and 2017. (Video generated for the report of my paper <a href='https://scienceadvances.altmetric.com/details/134020757'>Huang et al.</a> by <a href='https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html?smid=tw-share' target='_blank'>New York Times</a>)"
+  caption: "Climate variability and precipitation (source: NASA/Goddard Space Flight Center)"
   pubs:
    - name: 'Huang et al., 2022'
      link: 'https://scienceadvances.altmetric.com/details/134020757'
@@ -38,7 +38,7 @@
 - title: Atmospheric rivers (ARs)
   color: lightgray
   figure: ../assets/img/papers/main_fig1_ar.jpg
-  caption: "Changes in precipitation have caused around one-third ($73 billion) of US flood damages between 1988 and 2017. (Video generated for the report of my paper <a href='https://scienceadvances.altmetric.com/details/134020757'>Huang et al.</a> by <a href='https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html?smid=tw-share' target='_blank'>New York Times</a>)"
+  caption: "Atmospheric rivers (source: sciencemag.org)"
   pubs:
    - name: 'Huang et al., 2022'
      link: 'https://scienceadvances.altmetric.com/details/134020757'
@@ -50,7 +50,7 @@
 - title: Hydroclimate impacts
   color: lightgray
   figure: ../assets/img/papers/main_fig2_hydro.jpg
-  caption: "Changes in precipitation have caused around one-third ($73 billion) of US flood damages between 1988 and 2017. (Video generated for the report of my paper <a href='https://scienceadvances.altmetric.com/details/134020757'>Huang et al.</a> by <a href='https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html?smid=tw-share' target='_blank'>New York Times</a>)"
+  caption: "Hydroclimate impacts (source: psu.edu)"
   pubs:
    - name: 'Huang et al., 2022'
      link: 'https://scienceadvances.altmetric.com/details/134020757'
@@ -62,7 +62,7 @@
 - title: Climate downscaling
   color: lightgray
   figure: ../assets/img/papers/main_fig_3_downscaling.jpg
-  caption: "Changes in precipitation have caused around one-third ($73 billion) of US flood damages between 1988 and 2017. (Video generated for the report of my paper <a href='https://scienceadvances.altmetric.com/details/134020757'>Huang et al.</a> by <a href='https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html?smid=tw-share' target='_blank'>New York Times</a>)"
+  caption: "Climate downscaling (source: California’s Fourth Climate Change Assessment)"
   pubs:
    - name: 'Huang et al., 2022'
      link: 'https://scienceadvances.altmetric.com/details/134020757'
