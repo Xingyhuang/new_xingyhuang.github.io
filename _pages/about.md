@@ -26,7 +26,7 @@ I am working as a project scientist at National Center for Atmospheric Research 
 \
 <br/>
 
-# Recent news
+# Highlights
 
 **Dec 1, 2022:** The Altmetric Attention Score of My <a href='https://www.science.org/doi/10.1126/sciadv.abq0995'>Science Advance paper </a> is ranked at 21th out of 9,849 Scienve Advances research outputs according to <a href='https://scienceadvances.altmetric.com/details/134020757#score'>Altmetric</a>.
 
