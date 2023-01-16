@@ -24,9 +24,7 @@ I am working as a project scientist at National Center for Atmospheric Research 
 
 
 \
-\
-\
-
+<br/>
 
 # Recent news
 
