@@ -1,8 +1,8 @@
 ---
 layout: page
 order: 1
-title: PROJECT
-permalink: /project/
+title: RESEARCH
+permalink: /research/
 description: 
 nav: true
 ---
