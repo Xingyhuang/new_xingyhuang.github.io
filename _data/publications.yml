@@ -11,7 +11,7 @@
   year: 2022
   journal: Science Advances
   DOI: https://doi.org/10.1126/sciadv.abq0995
-  press: 'press_Huang_SA2022.yaml'
+  press: 'press_Huang_SA2022'
   altmetric: https://scienceadvances.altmetric.com/details/134020757/news
 
 - authors: Touma, D., Stevenson S., Swain D.L., Singh D., Kalashnikov D., and <b>Huang, X.</b>
@@ -19,7 +19,7 @@
   year: 2021
   journal: Science Advances
   DOI: https://doi.org/10.1126/sciadv.abm0320
-  press: 'press_Touma_SA2022.yaml'
+  press: 'press_Touma_SA2022'
 
 - authors: <b>Huang, X.</b>, and Stevenson, S.
   title: "Connections between mean North Pacific circulation and western US precipitation extremes in a warming climate"
