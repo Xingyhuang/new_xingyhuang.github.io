@@ -7,7 +7,7 @@ description:
 nav: true
 ---
 
-<i>My full list of publications can be found at <a href="https://scholar.google.com/citations?user=VXyy2EwAAAAJ&hl=en" target="_blank">Google Scholar</a> page. </i>
+<i>My full list of publications at <a href="https://scholar.google.com/citations?user=VXyy2EwAAAAJ&hl=en" target="_blank">Google Scholar</a> page. </i>
 <br>
 <br>
 

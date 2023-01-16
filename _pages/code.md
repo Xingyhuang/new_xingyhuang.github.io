@@ -1,13 +1,8 @@
 ---
 layout: page
 permalink: /code/
-order: 4
 title: CODE
-description: 
-nav: true
+description: Materials for code repo. Replace this text with your description.
+nav: false
 ---
-
-Code related to my research is available on [github](https://github.com/Xingyhuang), and is linked below.
-
-##### **Code from my Publication:**
 

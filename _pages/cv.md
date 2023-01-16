@@ -7,6 +7,6 @@ description:
 nav: true
 ---
 
-<iframe src="../assets/pdf/Xingyhuang_CV.pdf" height="800" width="100%"></iframe>
+<iframe src="../assets/pdf/Xingying_CV.pdf" height="800" width="100%"></iframe>
 
-download [CV](../assets/pdf/Xingyhuang_CV.pdf)
+download [CV](../assets/pdf/Xingying_CV.pdf)
