@@ -40,7 +40,7 @@ nav: true
                       <br>
 		      
     {% if paper.press %}
-        <strong style="color:#828282">See media coverage in:  </strong>
+        <strong style="color:#828282">Media Coverage:  </strong>
             {% for item in site.data[paper.press] %}
                 <a href="{{item.pressLink}}" target='_blank'>{{ item.press }}</a>
             {% endfor %}
