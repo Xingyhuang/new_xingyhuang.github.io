@@ -26,7 +26,7 @@ I am working as a project scientist at National Center for Atmospheric Research 
 
 **Dec 1, 2022:** The Altmetric Attention Score of My <a href='https://www.science.org/doi/10.1126/sciadv.abq0995'>Science Advance paper </a> is ranked at 21th out of 9,849 Scienve Advances research outputs according to <a href='https://scienceadvances.altmetric.com/details/134020757#score'>Altmetric</a>.
 
-**August 14, 2022:** My <a href='https://www.science.org/doi/10.1126/sciadv.abq0995'>Science Advance paper </a> has been featured in the <a href='https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html'>New York Times coverage of August 14th 2022 issue </a>. 
+**August 14, 2022:** My <a href='https://www.science.org/doi/10.1126/sciadv.abq0995'>Science Advance paper </a> has been featured in the <a href='https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html'>New York Times coverage of August 14th 2022 issue</a> and <a href='https://scienceadvances.altmetric.com/details/134020757/news'>hundreds of other media outlets</a>. 
 
 **December 9, 2020:** Honored the CYWater 2020 Young Scientist Best Paper Award. [[link of the paper](https://advances.sciencemag.org/content/6/29/eaba1323), open access]
 
