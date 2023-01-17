@@ -6,7 +6,7 @@ description:
 
 profile:
   align: left
-  image: xy_photo.png
+  image: me_photo_github_personal_webpage.jpg
   address: #>
     #<p>555 your office number</p>
     #<p>123 your address street</p>
