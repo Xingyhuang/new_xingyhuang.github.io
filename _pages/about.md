@@ -20,8 +20,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 # Welcome!
 
-I am working as a project scientist at National Center for Atmospheric Research (NCAR) within the Climate and Global Dynamics(CGD) Laboratory. Before joining NCAR, I did my postdoctoral research at the University of California, Los Angeles in [Alex Hall's group](https://dept.atmos.ucla.edu/alexhall/home) and at the University of California, Santa Barbara in [Samantha Stevenson's group](https://www.samanthalstevenson.com/). I received my PhD in Atmospheric Science from the University of California, Davis in [Paul Ullrich's group](https://climate.ucdavis.edu/). My research focuses on understanding the response of atmospheric dynamics to external climate forcing, the associated changes to the behavior of extreme events, and how to build credible climate projections. I am also interested in how extreme weather events would affect hydrological cycle and ecosystems, and the integration of machine learning techniques into climate sciences. 
+I am a scientist at [National Center for Atmospheric Research](https://ncar.ucar.edu/) (NCAR) in the [Climate and Global Dynamics](https://www.cgd.ucar.edu/) (CGD) Division. My research efforts focus on bridging the gaps between global and regional climate studies by connecting large-scale dynamic patterns and physical processes to hydroclimate impacts. My primary work aims to investigate the climate feedback with cutting-edge regional and global climate modeling and big data analysis at multi-scale. The goal is to improve the knowledge of global accelerated hydrological cycles and associated vulnerable hydroclimate impacts under challenging situations. I am also interested in the integration of machine learning techniques into climate sciences. 
 
+During my leisure time, I enjoy hiking, gardening and traveling. 
+
+<!---
+Before joining NCAR, I did my postdoctoral research at the University of California, Los Angeles in [Alex Hall's group](https://dept.atmos.ucla.edu/alexhall/home) and at the University of California, Santa Barbara in [Samantha Stevenson's group](https://www.samanthalstevenson.com/). I received my PhD in Atmospheric Science from the University of California, Davis in [Paul Ullrich's group](https://climate.ucdavis.edu/). My research focuses on understanding the response of atmospheric dynamics to external climate forcing, the associated changes to the behavior of extreme events, and how to build credible climate projections. I am also interested in how extreme weather events would affect hydrological cycle and ecosystems, and the integration of machine learning techniques into climate sciences. 
+-->
 
 \
 <br/>
