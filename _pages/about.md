@@ -28,7 +28,6 @@ During my leisure time, I enjoy hiking, gardening and traveling.
 Before joining NCAR, I did my postdoctoral research at the University of California, Los Angeles in [Alex Hall's group](https://dept.atmos.ucla.edu/alexhall/home) and at the University of California, Santa Barbara in [Samantha Stevenson's group](https://www.samanthalstevenson.com/). I received my PhD in Atmospheric Science from the University of California, Davis in [Paul Ullrich's group](https://climate.ucdavis.edu/). My research focuses on understanding the response of atmospheric dynamics to external climate forcing, the associated changes to the behavior of extreme events, and how to build credible climate projections. I am also interested in how extreme weather events would affect hydrological cycle and ecosystems, and the integration of machine learning techniques into climate sciences. 
 -->
 
-\
 <br/>
 
 # Highlights
