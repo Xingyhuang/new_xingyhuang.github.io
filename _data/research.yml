@@ -1,10 +1,9 @@
-- title: Climate change is increasing the risk of a California megaflood
+- title: Extreme storms over the Western US
   color: lightgray
   figure: ../assets/img/papers/arkstorm-intro-v5-1600.gif
-  caption: "Climate change is increasing the risk of a California megaflood. (Video generated for the report of my paper <a href='https://scienceadvances.altmetric.com/details/134020757'>Huang et al.</a> by <a href='https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html?smid=tw-share' target='_blank'>New York Times</a>)"
+  caption: "Climate change is increasing the risk of a California megaflood. (Video credit to <a href='https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html?smid=tw-share' target='_blank'>New York Times</a>)"
   pubs:
-   - name: 'Huang et al., 2022'
-     link: 'https://scienceadvances.altmetric.com/details/134020757'
+   - name: 'Huang and Swain, 2022'
   media:
    - name: 'New York Times (cover story of August 14th 2022 issue),'
      link: 'https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html?smid=tw-share'
@@ -17,56 +16,39 @@
    - name: Hundreds of other news coverage links collected by Altmetric
      link: 'https://scienceadvances.altmetric.com/details/134020757/news'
   questions:
-   - q: What is finding in this research?  
-     description: "Using the data from the Community Earth System Model Large Ensemble, we find that climate change has already doubled the likelihood of an event capable of producing catastrophic flooding, but larger future increases are likely due to continued warming."
-   - q: What is the impact of the possible risk?
-     description: "We further find that runoff in the future extreme storm scenario is 200 to 400% greater than historical values in the Sierra Nevada because of increased precipitation rates and decreased snow fraction. These findings have direct implications for flood and emergency management, as well as broader implications for hazard mitigation and climate adaptation activities."
-
-
-- title: Climate variability and precipitation
-  color: lightgray
-  figure: ../assets/img/papers/main_fig_4_circulation.jpg
-  caption: "Climate variability and precipitation (source: NASA/Goddard Space Flight Center)"
-  pubs:
-   - name: 'Huang et al., 2022'
-     link: 'https://scienceadvances.altmetric.com/details/134020757'
-  questions:
-   - q: Research Overview
-     description: "Precipitation extremes over the western US are a major focus of my work, due to their deleterious impacts on ecosystems and human society; these impacts are projected to intensify under a warming climate. Part of my research program focuses on understanding how large-scale forcing and climate variability affect the behavior of precipitation extremes, and how both are affected by uncertainty due to climate model biases. Given the large uncertainties within global climate models and the importance of internal (unforced) climate variability, I use large ensembles -- that is, sets of many simulations with identical model physics but different initial conditions, to improve statistical significance and identify consistent aspects of forced changes in 21st century climate projections"
-
-
-- title: Atmospheric rivers (ARs)
-  color: lightgray
-  figure: ../assets/img/papers/main_fig1_ar.jpg
-  caption: "Atmospheric rivers (source: sciencemag.org)"
-  pubs:
-   - name: 'Huang et al., 2022'
-     link: 'https://scienceadvances.altmetric.com/details/134020757'
-  questions:
-   - q: Research Overview
-     description: "Characterized by narrow and filamentary corridors of enhanced water vapor flux, ARs are of outsized importance along the U.S. West Coast. However, the formation, propagation, and controlling factors for ARs’ evolution and changes are not well understood. It is crucial to combine both observations and models to improve this understanding. A significant portion of my recent research efforts has been devoted to investigating historical AR events and using climate models to simulate and diagnose the characteristics and future projections of ARs, especially those with the greatest impacts"
-
-
-- title: Hydroclimate impacts
-  color: lightgray
-  figure: ../assets/img/papers/main_fig2_hydro.jpg
-  caption: "Hydroclimate impacts (source: psu.edu)"
-  pubs:
-   - name: 'Huang et al., 2022'
-     link: 'https://scienceadvances.altmetric.com/details/134020757'
-  questions:
-   - q: Research Overview  
-     description: "There are significant implications for snowpack, water resources, streamflow, and flooding risk, etc under a warming climate and intensified climate extremes. As the drought condition predicts to be more severe and precipitation to be more extreme, the loss of snowpack and intensified flood risk informs policymakers for better climate adaptation strategies for water resources supply and flood control. My recent research efforts have also been devoted to studying regional hydroclimate impacts and to provide scientific support to public communities. I am also involved in ongoing collaborations on examining the consequences of ArkStorm scenarios in a highly populated urban environment and how precipitation extremes can affect landslides and post-wildfire debris flows."
-
-
-- title: Climate downscaling
-  color: lightgray
-  figure: ../assets/img/papers/main_fig_3_downscaling.jpg
-  caption: "Climate downscaling (source: California’s Fourth Climate Change Assessment)"
-  pubs:
-   - name: 'Huang et al., 2022'
-     link: 'https://scienceadvances.altmetric.com/details/134020757'
-  questions:
-   - q: Research Overview  
-     description: "Climate downscaling enables connections between regional and global scales, and across disciplines (particularly between hydrologic, atmospheric, and land-surface processes). The strength of such linkages (such as, future water resources, flooding control, land-use impacts) could provide significant ways to resolve real-world problems under changing climatic and environmental conditions. The need for high-resolution data is increasingly fast and it usually requires intensive computational practices and resources. I have been focused on improving regional scale climate studies by pushing forward state-of-the-art high-resolution modeling methods."
-
+   - q: Research summary
+     description: "I led the work in investigating AR-induced intense storm events and developing modeling framework to study risk extremes and impacts under climate warming (Huang et al., 2020a; Huang et al., 2020b; Huang & Swain, 2022c) for disaster resilience planning and emergency response exercise."
+   
+ - title: Investigating climate variability and precipitation extremes.
+   color: lightgray
+   figure:
+   caption: 
+   pubs:
+    - name: 
+   media:
+   questions:
+    - q: Research summary
+      description: "By isolating internal variability from external forcings, my work aims to understand how large-scale climate variability affect precipitation extremes changes (Huang and Stevenson, 2021; Huang and Stevenson, 2023a, in revision). Research efforts also include the generation of a new large ensemble of simulations (Stevenson and Huang et al., 2023b, in revision)."
+ 
+ - title: Assessing mountainous hydroclimate responses and impacts.
+   color: lightgray
+   figure:
+   caption: 
+   pubs:
+    - name: 
+   media:
+   questions:
+    - q: Research summary
+      description: "Historical warming had already exacerbated runoff conditions (Huang et al., 2018). Future changes of surface runoff driven by intensified storm events are dramatic, reflecting both the precipitation increase and reduced snowfall (Huang et al., 2020c). Results have significant implications for water resource management and flood control and for both the public and strategy-makers."
+      
+ - title: Advancing climate modeling and high-resolution simulations.
+   color: lightgray
+   figure:
+   caption: 
+   pubs:
+    - name: 
+   media:
+   questions:
+    - q: Research summary
+      description: "My other leading work focuses on advancing high-resolution and new-generation storm-resolving modeling and simulations (Huang et al., 2022b; Huang, 2023, in revision). Past efforts also involve regional climate studies built upon cutting-edge modeling and downscaling strategies (Huang et al., 2016a; Huang and Ullrich, 2016b; Huang and Ullrich, 2017)."
+ 
