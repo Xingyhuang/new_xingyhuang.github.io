@@ -18,7 +18,7 @@ profile:
 
 I am a scientist at [National Center for Atmospheric Research](https://ncar.ucar.edu/) (NCAR) in the [Climate and Global Dynamics](https://www.cgd.ucar.edu/) (CGD) Division. My research efforts focus on bridging the gaps between global and regional climate studies by connecting large-scale dynamic patterns and physical processes to hydroclimate impacts. My primary work aims to investigate the climate feedback with cutting-edge regional and global climate modeling and big data analysis at multi-scale. The goal is to improve the knowledge of global accelerated hydrological cycles and associated vulnerable hydroclimate impacts under challenging situations. I am also interested in the integration of machine learning techniques into climate sciences. During my leisure time, I enjoy hiking, gardening and traveling. 
 
-/
+
 <br/>
 <br/>
 <br/>
