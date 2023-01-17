@@ -1,5 +1,5 @@
 - authors: <b>Huang, X.</b>, Gettelman, A., Skamarock, W.C., Lauritzen, P.H., Curry, M., Herrington, A., Truesdale, J.T. and Duda, M.
-  title: "Advancing Precipitation Prediction Using a New Generation Storm-resolving Model Framework"
+  title: "Advancing Precipitation Prediction Using a New Generation Storm-resolving Model Framework - SIMA-MPAS (V1.0): a Case Study over the Western United States."
   year: 2022
   journal: Geoscientific Model Development
   DOI: https://doi.org/10.5194/gmd-15-8135-2022
@@ -16,7 +16,7 @@
 
 - authors: Touma, D., Stevenson S., Swain D.L., Singh D., Kalashnikov D., and <b>Huang, X.</b>
   title: "Climate change increases risk of extreme rainfall following wildfire in the western United States"
-  year: 2021
+  year: 2022
   journal: Science Advances
   DOI: https://doi.org/10.1126/sciadv.abm0320
   press: 'press_Touma_SA2022'
@@ -44,6 +44,12 @@
   year: 2020
   journal: Journal of Geophysical Research Atmospheres
   DOI: https://doi.org/10.1029/2019JD031554
+  
+- authors: Reich, K.D., Berg, N., Walton, D.B., Schwartz, M., Sun, F., <b>Huang, X.</b> and Hall, A.
+  title: Climate change in the Sierra Nevada: California's water future.
+  year: 2018
+  journal: UCLA Center for Climate Science
+  DOI: https://www.ioes.ucla.edu/wp-content/uploads/UCLA-CCS-Climate-Change-Sierra-Nevada.pdf
 
 - authors: <b>Huang, X.</b>, Hall, A.D. and Berg, N.
   title: "Anthropogenic warming impacts on today's Sierra Nevada snowpack and flood risk"
