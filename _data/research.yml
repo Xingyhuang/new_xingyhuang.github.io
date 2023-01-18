@@ -17,38 +17,38 @@
      link: 'https://scienceadvances.altmetric.com/details/134020757/news'
   questions:
    - q: Research summary
-     description: "I led the work in investigating AR-induced intense storm events and developing modeling framework to study risk extremes and impacts under climate warming (Huang et al., 2020a; Huang et al., 2020b; Huang & Swain, 2022c) for disaster resilience planning and emergency response exercise."
+     description: "I led the work in investigating AR-induced intense storm events and developing modeling framework to study risk extremes and impacts under climate warming (Huang et al., 2020a, https://doi.org/10.1126/sciadv.aba1323; Huang et al., 2020b, https://doi.org/10.1029/2019JD031554; Huang & Swain, 2022a, https://doi.org/10.1126/sciadv.abq0995) for disaster resilience planning and emergency response exercise."
    
  - title: Climate variability and intensifying precipitation extremes.
    color: lightgray
-   figure:
-   caption: 
-   pubs:
-    - name: 
+   figure: ../assets/img/papers/northpacifc&precip_2.jpeg
+   caption: "Ensemble decomposition of the contributions (%) from thermodynamic and dynamic changes to precipitation extremes."
+   pubs: 
+    - name: 'Huang and Stevenson, 2021'
    media:
    questions:
     - q: Research summary
-      description: "By isolating internal variability from external forcings, my work aims to understand how large-scale climate variability affect precipitation extremes changes (Huang and Stevenson, 2021; Huang and Stevenson, 2023a, in revision). Research efforts also include the generation of a new large ensemble of simulations (Stevenson and Huang et al., 2023b, in revision)."
+      description: "By isolating internal variability from external forcings, my work aims to understand how large-scale climate variability affect precipitation extremes changes (Huang and Stevenson, 2021, https://doi.org/10.1029/2020EF001944; Huang and Stevenson, 2023a, in revision). Research efforts also include the generation of a new large ensemble of simulations (Stevenson and Huang et al., 2023b, in revision)."
  
  - title: Accelerated mountainous hydroclimate impacts.
    color: lightgray
-   figure:
-   caption: 
-   pubs:
-    - name: 
+   figure: ../assets/img/papers/Huang_grl_2020_2.jpeg
+   caption: "Distribution of precipitation, snowpack, and surface runoff as a function of elevation for ARs events."
+   pubs: 
+    - name: 'Huang et al., 2020c'
    media:
    questions:
     - q: Research summary
-      description: "Historical warming had already exacerbated runoff conditions (Huang et al., 2018). Future changes of surface runoff driven by intensified storm events are dramatic, reflecting both the precipitation increase and reduced snowfall (Huang et al., 2020c). Results have significant implications for water resource management and flood control and for both the public and strategy-makers."
+      description: "Historical warming had already exacerbated runoff conditions (Huang et al., 2018, https://doi.org/10.1029/2018GL077432). Future changes of surface runoff driven by intensified storm events are dramatic, reflecting both the precipitation increase and reduced snowfall (Huang et al., 2020c, https://doi.org/10.1029/2020GL088679). Results have significant implications for water resource management and flood control and for both the public and strategy-makers."
       
  - title: Advancing climate modeling and high-resolution simulations.
    color: lightgray
-   figure:
-   caption: 
+   figure: ../assets/img/papers/Huang_gmd_2022.png
+   caption: "SIMA-MPAS mesh configuration for the 60–3 km experiments."
    pubs:
-    - name: 
+    - name: 'Huang et al., 2022b'
    media:
    questions:
     - q: Research summary
-      description: "My other leading work focuses on advancing high-resolution and new-generation storm-resolving modeling and simulations (Huang et al., 2022b; Huang, 2023, in revision). Past efforts also involve regional climate studies built upon cutting-edge modeling and downscaling strategies (Huang et al., 2016a; Huang and Ullrich, 2016b; Huang and Ullrich, 2017)."
+      description: "My other leading work focuses on advancing high-resolution and new-generation storm-resolving modeling and simulations (Huang et al., 2022b, https://doi.org/10.5194/gmd-15-8135-2022; Huang, 2023, in revision). Past efforts also involve regional climate studies built upon cutting-edge modeling and downscaling strategies (Huang et al., 2016a, https://doi.org/10.1002/2015MS000559; Huang and Ullrich, 2016b, https://doi.org/10.1002/2016MS000656; Huang and Ullrich, 2017, https://doi.org/10.1175/JCLI-D-16-0673.1)."
  
